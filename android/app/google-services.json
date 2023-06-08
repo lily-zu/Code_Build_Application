@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "442400236502",
+    "firebase_url": "https://apphydro-5e7fb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "apphydro-5e7fb",
+    "storage_bucket": "apphydro-5e7fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442400236502:android:29ea949f955a77351cfa77",
+        "android_client_info": {
+          "package_name": "dev.aifarm.hydroponic_system.hydroponic_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442400236502-vj6oqk24rg352bj9nbv9f0ukh19l9cl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Umb9mqblVmjImQw6VABigZf6ljJTKkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442400236502-t4r709dvq2v5cnu906p9tl53r348gbnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
